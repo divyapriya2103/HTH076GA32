@@ -1,0 +1,201 @@
+subscription_id,signup_date,plan_tier,billing_cycle,country,mrr_usd,active_seats,support_tickets_raised,churn_risk_score
+SUB-5000,2023-03-01,Growth,Monthly,United States,262.11,4,0,56.8
+SUB-5001,2023-03-02,Enterprise,Monthly,Canada,1198.15,24,3,52.4
+SUB-5002,2023-03-04,Starter,Monthly,United States,99.07,5,0,24.9
+SUB-5003,2023-03-06,Growth,Monthly,France,239.39,4,3,35.8
+SUB-5004,2023-03-08,Starter,Monthly,United States,132.31,6,2,14.1
+SUB-5005,2023-03-10,Enterprise,Monthly,France,1262.92,28,3,25.6
+SUB-5006,2023-03-11,Growth,Annual,France,223.25,1,2,52.4
+SUB-5007,2023-03-13,Growth,Monthly,France,251.32,4,2,48.2
+SUB-5008,2023-03-15,Growth,Monthly,Canada,249.47,5,3,26.4
+SUB-5009,2023-03-17,Starter,Monthly,United States,98.94,4,2,22.4
+SUB-5010,2023-03-19,Starter,Annual,United States,102.12,3,3,27.6
+SUB-5011,2023-03-21,Growth,Monthly,Canada,242.68,3,2,32.1
+SUB-5012,2023-03-22,Starter,Monthly,United Kingdom,109.43,5,0,55.7
+SUB-5013,2023-03-24,Starter,Monthly,Germany,67.79,1,1,16.2
+SUB-5014,2023-03-26,Starter,Monthly,United States,48.81,1,3,15.5
+SUB-5015,2023-03-28,Growth,Monthly,Germany,267.04,6,2,21.0
+SUB-5016,2023-03-30,Starter,Monthly,Japan,113.16,6,3,10.7
+SUB-5017,2023-04-01,Starter,Annual,Japan,78.7,2,1,36.4
+SUB-5018,2023-04-02,Growth,Monthly,Canada,268.64,5,2,7.0
+SUB-5019,2023-04-04,Growth,Annual,Japan,247.46,4,0,57.5
+SUB-5020,2023-04-06,Starter,Annual,Japan,127.77,7,1,28.2
+SUB-5021,2023-04-08,Starter,Monthly,United Kingdom,111.3,5,1,37.9
+SUB-5022,2023-04-10,Starter,Annual,United Kingdom,69.13,2,0,5.0
+SUB-5023,2023-04-12,Starter,Monthly,United Kingdom,116.04,6,4,39.1
+SUB-5024,2023-04-13,Starter,Monthly,Japan,114.89,5,6,32.6
+SUB-5025,2023-04-15,Growth,Monthly,Canada,7800.0,5,4,34.5
+SUB-5026,2023-04-17,Growth,Monthly,France,258.34,6,3,23.7
+SUB-5027,2023-04-19,Growth,Monthly,France,210.56,2,1,42.4
+SUB-5028,2023-04-21,Starter,Monthly,Germany,107.97,6,4,12.9
+SUB-5029,2023-04-23,Growth,Monthly,France,213.98,1,2,33.0
+SUB-5030,2023-04-24,Starter,Monthly,France,100.5,4,3,6.7
+SUB-5031,2023-04-26,Enterprise,Monthly,United Kingdom,1225.01,26,2,10.6
+SUB-5032,2023-04-28,Growth,Monthly,United Kingdom,229.88,2,0,53.6
+SUB-5033,2023-04-30,Starter,Monthly,Japan,98.42,3,2,16.0
+SUB-5034,2023-05-02,Growth,Monthly,Germany,205.58,1,2,12.3
+SUB-5035,2023-05-04,Starter,Annual,United States,90.56,3,3,31.0
+SUB-5036,2023-05-05,Growth,Monthly,Germany,270.7,7,1,50.1
+SUB-5037,2023-05-07,Starter,Annual,Germany,137.79,6,0,19.3
+SUB-5038,2023-05-09,Starter,Monthly,Canada,49.05,1,1,68.0
+SUB-5039,2023-05-11,Enterprise,Monthly,Japan,1441.9,44,3,16.6
+SUB-5040,2023-05-13,Starter,Monthly,Canada,118.02,6,1,44.5
+SUB-5041,2023-05-14,Growth,Monthly,Germany,233.74,4,1,28.7
+SUB-5042,2023-05-16,Starter,Monthly,Germany,111.83,5,2,20.5
+SUB-5043,2023-05-18,Growth,Annual,Germany,238.64,3,5,35.7
+SUB-5044,2023-05-20,Growth,Monthly,France,209.61,1,4,8.7
+SUB-5045,2023-05-22,Growth,Annual,Canada,233.6,4,2,23.8
+SUB-5046,2023-05-24,Starter,Annual,Germany,93.83,2,2,21.3
+SUB-5047,2023-05-25,Starter,Annual,United Kingdom,104.49,4,5,33.8
+SUB-5048,2023-05-27,Starter,Annual,Japan,100.34,2,1,29.1
+SUB-5049,2023-05-29,Starter,Monthly,Japan,115.95,6,2,34.8
+SUB-5050,2023-05-31,Growth,Monthly,United Kingdom,221.08,1,1,42.2
+SUB-5051,2023-06-02,Enterprise,Monthly,Japan,1419.29,41,3,24.2
+SUB-5052,2023-06-04,Enterprise,Monthly,France,1171.09,22,0,30.2
+SUB-5053,2023-06-05,Growth,Monthly,France,263.11,4,0,56.9
+SUB-5054,2023-06-07,Growth,Annual,United States,282.45,7,2,29.4
+SUB-5055,2023-06-09,Growth,Monthly,United States,207.89,1,1,23.7
+SUB-5056,2023-06-11,Starter,Monthly,United States,64.29,4,1,43.5
+SUB-5057,2023-06-13,Enterprise,Monthly,Japan,1240.59,27,2,24.8
+SUB-5058,2023-06-15,Growth,Monthly,France,235.74,4,1,59.2
+SUB-5059,2023-06-16,Growth,Monthly,France,230.99,3,2,49.4
+SUB-5060,2023-06-18,Starter,Annual,France,113.74,6,2,19.3
+SUB-5061,2023-06-20,Starter,Monthly,United Kingdom,107.84,5,3,21.6
+SUB-5062,2023-06-22,Starter,Monthly,France,78.44,2,3,45.5
+SUB-5063,2023-06-24,Enterprise,Monthly,United Kingdom,1099.11,16,1,43.2
+SUB-5064,2023-06-26,Growth,Monthly,United States,293.6,7,1,47.3
+SUB-5065,2023-06-27,Starter,Monthly,United States,136.66,6,1,25.4
+SUB-5066,2023-06-29,Enterprise,Monthly,Japan,1457.81,45,2,28.6
+SUB-5067,2023-07-01,Starter,Monthly,United States,69.21,2,2,23.2
+SUB-5068,2023-07-03,Starter,Monthly,Japan,121.08,5,1,23.3
+SUB-5069,2023-07-05,Starter,Monthly,Germany,134.37,6,1,17.0
+SUB-5070,2023-07-07,Growth,Monthly,Germany,293.91,7,3,49.2
+SUB-5071,2023-07-08,Enterprise,Monthly,Canada,1389.48,40,1,33.2
+SUB-5072,2023-07-10,Starter,Monthly,Japan,65.73,1,5,34.3
+SUB-5073,2023-07-12,Enterprise,Monthly,Canada,1175.09,22,2,47.3
+SUB-5074,2023-07-14,Starter,Annual,Canada,147.03,7,3,5.8
+SUB-5075,2023-07-16,Enterprise,Monthly,Germany,1168.27,22,0,33.4
+SUB-5076,2023-07-18,Growth,Monthly,Japan,269.83,7,3,50.6
+SUB-5077,2023-07-19,Growth,Monthly,Germany,255.9,4,0,10.9
+SUB-5078,2023-07-21,Starter,Monthly,Canada,35.92,1,4,47.6
+SUB-5079,2023-07-23,Enterprise,Monthly,Japan,1541.68,52,1,33.5
+SUB-5080,2023-07-25,Growth,Monthly,Canada,238.77,4,2,31.1
+SUB-5081,2023-07-27,Starter,Annual,France,76.2,3,3,31.6
+SUB-5082,2023-07-28,Growth,Monthly,Japan,254.01,5,1,13.4
+SUB-5083,2023-07-30,Starter,Monthly,Japan,111.17,4,0,5.0
+SUB-5084,2023-08-01,Enterprise,Monthly,Canada,1394.71,39,2,44.0
+SUB-5085,2023-08-03,Starter,Monthly,France,133.98,7,2,12.0
+SUB-5086,2023-08-05,Growth,Monthly,United Kingdom,260.34,4,2,20.0
+SUB-5087,2023-08-07,Growth,Monthly,Germany,275.88,7,0,70.1
+SUB-5088,2023-08-08,Starter,Annual,Canada,74.52,3,3,28.2
+SUB-5089,2023-08-10,Starter,Monthly,Japan,70.14,1,5,34.9
+SUB-5090,2023-08-12,Starter,Monthly,Germany,92.3,3,1,18.3
+SUB-5091,2023-08-14,Starter,Annual,Germany,56.9,1,2,50.2
+SUB-5092,2023-08-16,Starter,Monthly,Germany,125.15,7,2,6.2
+SUB-5093,2023-08-18,Growth,Annual,United Kingdom,226.1,1,6,43.5
+SUB-5094,2023-08-19,Starter,Monthly,United States,94.3,5,1,9.2
+SUB-5095,2023-08-21,Starter,Annual,Canada,118.02,6,2,62.6
+SUB-5096,2023-08-23,Growth,Monthly,United States,238.79,3,1,37.7
+SUB-5097,2023-08-25,Starter,Annual,United States,117.02,4,1,12.7
+SUB-5098,2023-08-27,Enterprise,Annual,United States,1277.83,30,2,27.4
+SUB-5099,2023-08-29,Enterprise,Monthly,Germany,1316.3,33,0,38.3
+SUB-5100,2023-08-30,Growth,Annual,France,205.81,1,4,17.8
+SUB-5101,2023-09-01,Growth,Monthly,Germany,267.18,5,2,21.6
+SUB-5102,2023-09-03,Enterprise,Monthly,Germany,1325.05,34,3,52.1
+SUB-5103,2023-09-05,Starter,Monthly,Japan,58.12,2,1,27.9
+SUB-5104,2023-09-07,Starter,Monthly,Japan,106.93,4,1,48.5
+SUB-5105,2023-09-09,Starter,Monthly,United States,121.2,5,3,34.8
+SUB-5106,2023-09-10,Growth,Monthly,Germany,294.53,7,2,37.8
+SUB-5107,2023-09-12,Starter,Monthly,United States,99.33,4,2,45.5
+SUB-5108,2023-09-14,Growth,Annual,Japan,276.94,7,0,56.5
+SUB-5109,2023-09-16,Enterprise,Annual,France,1513.41,51,1,13.5
+SUB-5110,2023-09-18,Enterprise,Monthly,Canada,1263.07,29,2,41.9
+SUB-5111,2023-09-20,Growth,Monthly,United States,259.82,4,0,62.8
+SUB-5112,2023-09-21,Starter,Monthly,France,83.96,2,4,42.3
+SUB-5113,2023-09-23,Growth,Monthly,Canada,219.66,1,5,32.4
+SUB-5114,2023-09-25,Growth,Monthly,United Kingdom,285.76,7,0,52.4
+SUB-5115,2023-09-27,Starter,Monthly,United States,122.37,5,0,68.4
+SUB-5116,2023-09-29,Starter,Monthly,United States,108.24,4,6,35.9
+SUB-5117,2023-10-01,Enterprise,Annual,United Kingdom,1357.27,37,0,39.4
+SUB-5118,2023-10-02,Growth,Monthly,United Kingdom,243.27,3,1,38.0
+SUB-5119,2023-10-04,Growth,Monthly,United States,281.14,7,0,8.4
+SUB-5120,2023-10-06,Enterprise,Monthly,United Kingdom,1141.9,19,3,43.7
+SUB-5121,2023-10-08,Growth,Monthly,Germany,261.01,6,2,9.4
+SUB-5122,2023-10-10,Growth,Monthly,Canada,199.28,1,3,39.8
+SUB-5123,2023-10-11,Starter,Monthly,Canada,72.08,1,5,7.8
+SUB-5124,2023-10-13,Starter,Monthly,Canada,95.88,3,5,12.8
+SUB-5125,2023-10-15,Starter,Monthly,Germany,80.34,2,2,21.4
+SUB-5126,2023-10-17,Growth,Annual,United Kingdom,249.88,4,3,19.0
+SUB-5127,2023-10-19,Growth,Annual,France,262.59,7,6,45.0
+SUB-5128,2023-10-21,Enterprise,Monthly,United Kingdom,1085.75,15,3,23.4
+SUB-5129,2023-10-22,Starter,Monthly,United States,66.04,1,2,10.0
+SUB-5130,2023-10-24,Growth,Monthly,Japan,218.65,2,3,17.5
+SUB-5131,2023-10-26,Growth,Monthly,Canada,204.38,1,1,31.1
+SUB-5132,2023-10-28,Growth,Monthly,United Kingdom,238.44,2,1,30.7
+SUB-5133,2023-10-30,Growth,Monthly,France,235.9,3,4,31.6
+SUB-5134,2023-11-01,Starter,Monthly,United States,116.05,5,0,44.9
+SUB-5135,2023-11-02,Growth,Monthly,Germany,244.24,3,6,49.9
+SUB-5136,2023-11-04,Starter,Monthly,Germany,76.49,3,2,38.0
+SUB-5137,2023-11-06,Starter,Annual,France,113.43,5,3,25.9
+SUB-5138,2023-11-08,Starter,Annual,United States,124.7,5,2,21.7
+SUB-5139,2023-11-10,Growth,Annual,Canada,267.19,4,0,63.4
+SUB-5140,2023-11-12,Enterprise,Monthly,United Kingdom,1461.9,45,1,30.2
+SUB-5141,2023-11-13,Growth,Annual,United States,284.12,7,4,35.3
+SUB-5142,2023-11-15,Growth,Monthly,Germany,251.69,4,3,19.6
+SUB-5143,2023-11-17,Growth,Annual,France,238.94,3,3,19.5
+SUB-5144,2023-11-19,Growth,Monthly,France,250.37,3,5,12.0
+SUB-5145,2023-11-21,Starter,Annual,United Kingdom,51.54,1,1,28.8
+SUB-5146,2023-11-23,Starter,Monthly,France,58.7,1,4,19.5
+SUB-5147,2023-11-24,Starter,Annual,France,125.33,7,1,22.2
+SUB-5148,2023-11-26,Starter,Annual,United States,88.88,4,1,49.2
+SUB-5149,2023-11-28,Starter,Monthly,Canada,127.77,6,1,8.5
+SUB-5150,2023-11-30,Starter,Monthly,United Kingdom,132.1,6,0,17.1
+SUB-5151,2023-12-02,Starter,Annual,United States,92.51,4,1,32.8
+SUB-5152,2023-12-04,Enterprise,Monthly,Canada,1456.72,44,4,31.5
+SUB-5153,2023-12-05,Starter,Annual,United States,147.62,7,2,55.9
+SUB-5154,2023-12-07,Starter,Monthly,Japan,155.85,7,1,5.7
+SUB-5155,2023-12-09,Starter,Monthly,United States,62.2,1,1,52.2
+SUB-5156,2023-12-11,Growth,Monthly,France,267.6,6,1,11.1
+SUB-5157,2023-12-13,Starter,Monthly,Canada,63.98,2,2,22.7
+SUB-5158,2023-12-15,Starter,Annual,United Kingdom,62.98,2,2,8.2
+SUB-5159,2023-12-16,Growth,Monthly,United Kingdom,224.0,1,0,5.0
+SUB-5160,2023-12-18,Starter,Monthly,Canada,58.85,2,2,51.5
+SUB-5161,2023-12-20,Starter,Monthly,France,123.68,5,1,15.2
+SUB-5162,2023-12-22,Starter,Monthly,Germany,90.32,4,2,40.2
+SUB-5163,2023-12-24,Starter,Annual,United States,92.15,4,2,19.3
+SUB-5164,2023-12-25,Starter,Annual,France,59.98,1,0,56.8
+SUB-5165,2023-12-27,Starter,Monthly,Japan,79.46,3,2,20.7
+SUB-5166,2023-12-29,Growth,Annual,Canada,283.32,6,0,24.3
+SUB-5167,2023-12-31,Growth,Annual,United States,229.63,1,3,16.9
+SUB-5168,2024-01-02,Growth,Monthly,United Kingdom,217.43,2,4,12.0
+SUB-5169,2024-01-04,Starter,Annual,Germany,119.68,6,4,42.8
+SUB-5170,2024-01-05,Enterprise,Monthly,Japan,1259.87,29,3,28.1
+SUB-5171,2024-01-07,Starter,Monthly,United Kingdom,79.41,2,3,5.0
+SUB-5172,2024-01-09,Starter,Annual,Canada,134.97,7,2,57.6
+SUB-5173,2024-01-11,Growth,Monthly,United States,275.37,5,0,24.7
+SUB-5174,2024-01-13,Starter,Annual,Canada,85.47,2,2,12.7
+SUB-5175,2024-01-15,Starter,Annual,United States,99.65,5,3,7.7
+SUB-5176,2024-01-16,Growth,Monthly,France,279.21,6,1,13.2
+SUB-5177,2024-01-18,Enterprise,Annual,Germany,1289.2,30,2,34.2
+SUB-5178,2024-01-20,Starter,Monthly,France,119.05,6,1,44.2
+SUB-5179,2024-01-22,Growth,Monthly,France,271.06,6,1,22.9
+SUB-5180,2024-01-24,Enterprise,Monthly,Canada,1106.22,17,2,81.3
+SUB-5181,2024-01-26,Starter,Annual,Germany,118.93,6,3,20.8
+SUB-5182,2024-01-27,Starter,Monthly,United States,107.32,6,2,26.1
+SUB-5183,2024-01-29,Starter,Monthly,United States,60.72,2,0,11.0
+SUB-5184,2024-01-31,Starter,Monthly,Japan,124.77,6,3,25.1
+SUB-5185,2024-02-02,Starter,Annual,United Kingdom,89.14,2,2,46.2
+SUB-5186,2024-02-04,Enterprise,Monthly,Japan,1505.37,49,2,62.2
+SUB-5187,2024-02-06,Growth,Monthly,Japan,255.07,5,0,39.8
+SUB-5188,2024-02-07,Growth,Monthly,United States,303.52,7,4,5.9
+SUB-5189,2024-02-09,Starter,Monthly,Canada,112.92,6,2,10.0
+SUB-5190,2024-02-11,Growth,Annual,France,219.89,3,2,5.9
+SUB-5191,2024-02-13,Enterprise,Monthly,France,1178.21,23,1,14.0
+SUB-5192,2024-02-15,Growth,Monthly,France,267.37,6,2,18.1
+SUB-5193,2024-02-17,Starter,Annual,Germany,94.03,5,2,12.1
+SUB-5194,2024-02-18,Growth,Monthly,United States,247.72,4,2,38.0
+SUB-5195,2024-02-20,Starter,Annual,Canada,120.98,5,4,11.6
+SUB-5196,2024-02-22,Starter,Monthly,Germany,73.64,3,0,34.4
+SUB-5197,2024-02-24,Starter,Annual,United Kingdom,99.88,4,1,42.4
+SUB-5198,2024-02-26,Growth,Monthly,Canada,215.46,1,4,22.3
+SUB-5199,2024-02-28,Growth,Monthly,Japan,210.67,1,0,49.7
